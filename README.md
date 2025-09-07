@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Batsheva
 
-<!--
-**batshevaisaacson/batshevaisaacson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Recent **Data Science graduate**, passionate about solving problems and turning data into insights.
+- 💼 Actively looking for opportunities in **Data Science** or **Data Analytics** (open to remote roles).
+- 📍 Based in Jerusalem, Israel.  
 
-Here are some ideas to get you started:
+### 🌱 Currently
+- Brushing up on **Python** and working on personal projects
+- Building a **Forage project with British Airways** (predictive model for customer bookings)  
+  
+### 🛠️ Skills
+• Python • SQL • Tableau • Excel • Machine Learning • NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+**Amazon Customer Review Analysis (Capstone Project)**  
+- Applied NLP with Sentence-BERT to analyze product reviews  
+- Used clustering to uncover customer sentiment patterns
+- Developed actionable recommendations for sellers
+ 
