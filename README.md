@@ -9,7 +9,7 @@
 - Building a **Forage project with British Airways** (predictive model for customer bookings)  
   
 ### 🛠️ Skills
--Python, SQL, Tableau, Excel, Machine Learning, NLP
+- Python, SQL, Tableau, Excel, Machine Learning, NLP
 
 ### 📊 Projects
 **Amazon Customer Review Analysis (Capstone Project)**  
