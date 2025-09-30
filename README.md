@@ -5,7 +5,6 @@
 
 ### 🌱 Currently
 - Brushing up on **Python** and working on personal projects
-- Building a **Forage project with British Airways** (predictive model for customer bookings)  
   
 ### 🛠️ Skills
 - Python, R, SQL, Tableau, Excel, Machine Learning, NLP
