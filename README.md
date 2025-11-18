@@ -1,6 +1,6 @@
 # Batsheva Isaacson
 
-🎓 Recent **Data Science graduate**, passionate about solving problems and turning data into insights  
+🎓 Recent Data Science graduate, passionate about solving problems and turning data into insights  
 💼 Actively looking for opportunities in **Data Science** or **Data Analytics**  
 
 ### 🛠️ Skills  
